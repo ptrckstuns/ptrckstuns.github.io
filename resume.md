@@ -1,0 +1,56 @@
+---
+layout: page
+title: Résumé
+subtitle: An enigmatic person
+---
+
+<span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
+<br>
+
+### SKILLS
+- Project Management
+- Leadership
+- Web development
+
+<br>
+
+### PROJECTS
+**Lubotics E-commerce** - Website <span style="float: right; ">3 months</span>  
+Lubotics is an e-commerce website about robots. Deployed at <strong><a href="http://lubotics.herokuapp.com">Heroku</a></strong>.
+
+**Object Detection tool** - Web - Github <span style="float: right; ">1 month</span>  
+Co-author of <strong><a href="https://github.com/aerasmo/csi-osint-tool">CSI-OSINT Tool</a></strong>. Unpublished.
+
+<br>
+
+### EDUCATION
+
+Adamson Universisty <span style="float: right; ">4 years</span>  
+**BS Computer Science**  
+Currently enrolled and a graduating student.
+ 
+Pateros Catholic School <span style="float: right; ">6 years</span>  
+**STEM Track**  
+4 years in Junior High School and 2 years in Senior High School.
+
+
+<!-- ### EXPERIENCE
+
+Title - **Comapany** <span style="float: right; ">Duration</span>  
+_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
+Technologies used  
+
+ 
+Title - **Comapany** <span style="float: right; ">Duration</span>  
+_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
+Technologies used  
+
+Title - **Comapany** <span style="float: right; ">Duration</span>  
+_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
+Technologies used   -->
+
+<br>
+
+### RECOGNITION & INTERESTS
+
+- Team JoYuRiZ - Cybersecurity Conference 2020 Hackathon Grand Winner issued by ISSA PH and UNFPA
