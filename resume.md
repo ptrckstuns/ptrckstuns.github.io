@@ -54,3 +54,4 @@ Technologies used   -->
 ### RECOGNITION & INTERESTS
 
 - Team JoYuRiZ - Cybersecurity Conference 2020 Hackathon Grand Winner issued by ISSA PH and UNFPA
+- ASU Devex World <a href="https://pages.devex.com/devex-world-2020-hackathon.html">Hackathon</a> 2020 <a href="https://youtu.be/ZoB3PmofY2s">Finalist</a>
