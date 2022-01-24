@@ -7,10 +7,23 @@ subtitle: An enigmatic person
 <span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
 <br>
 
+
+<br>
+
 ### SKILLS
 - Project Management
 - Leadership
 - Web development
+
+<br>
+
+### TECHNICAL SKILLS
+- Web
+  - HTML, CSS, Javascript
+- Programming
+  - C#, SQL, Java, Python
+- Productivity
+  - Trello, Figma
 
 <br>
 
