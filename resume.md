@@ -46,6 +46,7 @@ Pateros Catholic School <span style="float: right; ">6 years</span>
 **STEM Track**  
 4 years in Junior High School and 2 years in Senior High School.
 
+<br>
 
 ### EXPERIENCE
 
@@ -62,7 +63,6 @@ _Currently ACOMSS's AUSG (Adamson University Student Government) Representative.
 
 Former Executive Treasurer - **Adamson Computer Science Society** <span style="float: right; ">A.Y. 2020-2021</span>  
 _Former Executive Treasurer of ACOMSS._  
-
 
 <br>
 
