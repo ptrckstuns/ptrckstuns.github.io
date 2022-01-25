@@ -47,20 +47,22 @@ Pateros Catholic School <span style="float: right; ">6 years</span>
 4 years in Junior High School and 2 years in Senior High School.
 
 
-<!-- ### EXPERIENCE
+### EXPERIENCE
 
-Title - **Comapany** <span style="float: right; ">Duration</span>  
-_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
-Technologies used  
-
- 
-Title - **Comapany** <span style="float: right; ">Duration</span>  
+<!-- Title - **Comapany** <span style="float: right; ">Duration</span>  
 _Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
 Technologies used  
 
 Title - **Comapany** <span style="float: right; ">Duration</span>  
 _Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
 Technologies used   -->
+
+AUSG Representative - **Adamson Computer Science Society** <span style="float: right; ">A.Y. 2021-2022</span>  
+_Currently ACOMSS's AUSG (Adamson University Student Government) Representative._  
+
+Former Executive Treasurer - **Adamson Computer Science Society** <span style="float: right; ">A.Y. 2020-2021</span>  
+_Former Executive Treasurer of ACOMSS._  
+
 
 <br>
 
