@@ -70,3 +70,12 @@ _Former Executive Treasurer of ACOMSS._
 
 - Team JoYuRiZ - Cybersecurity Conference 2020 Hackathon Grand Winner issued by ISSA PH and UNFPA
 - ASU Devex World <a href="https://pages.devex.com/devex-world-2020-hackathon.html">Hackathon</a> 2020 <a href="https://youtu.be/ZoB3PmofY2s">Finalist</a>
+
+### AFFILIATIONS
+
+- JoYuRiZ / joyuriz
+  - <a href="https://ctftime.org/team/163844">CTFs</a>
+  - Hackathon (ISSA PH & UNFPA)
+- Adamson University 
+  - Representative for ASU Devex World
+- 
