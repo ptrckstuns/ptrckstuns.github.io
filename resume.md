@@ -4,7 +4,8 @@ title: Résumé
 subtitle: An enigmatic person
 ---
 
-<span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
+<!-- <span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span> -->
+<span style="float: right; "><a href="https://resume.io/r/Wqqeqpc5n"><strong>> Download as PDF</strong></a> </span>
 <br>
 
 
