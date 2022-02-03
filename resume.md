@@ -13,7 +13,7 @@ subtitle: An enigmatic person
 ### SKILLS
 - Project Management
 - Leadership
-- Web development
+- Programming
 
 <br>
 
@@ -21,9 +21,9 @@ subtitle: An enigmatic person
 - Web
   - HTML, CSS, Javascript
 - Programming
-  - C#, SQL, Java, Python
+  - C#, SQL, Java, Python, Django
 - Productivity
-  - Trello, Figma
+  - Trello, Figma, Github
 
 <br>
 
@@ -71,11 +71,12 @@ _Former Executive Treasurer of ACOMSS._
 - Team JoYuRiZ - Cybersecurity Conference 2020 Hackathon Grand Winner issued by ISSA PH and UNFPA
 - ASU Devex World <a href="https://pages.devex.com/devex-world-2020-hackathon.html">Hackathon</a> 2020 <a href="https://youtu.be/ZoB3PmofY2s">Finalist</a>
 
+<br>
+
 ### AFFILIATIONS
 
 - JoYuRiZ / joyuriz
   - <a href="https://ctftime.org/team/163844">CTFs</a>
-  - Hackathon (ISSA PH & UNFPA)
+  - Hackathons (ISSA PH & UNFPA)
 - Adamson University 
   - Representative for ASU Devex World
-- 
