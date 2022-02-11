@@ -12,27 +12,27 @@ subtitle: An enigmatic person
 <br>
 
 ### PERSONAL
-**Full Name** - Patrick Mark Andrei M. Castro
+**Full Name** - Patrick Mark Andrei M. Castro <br>
 **Address** - Taguig City, NCR, Philippines
 
 <br>
 
 ### CONTACT
-**Email** - patrick.castro.stuns@gmail.com
-**Phone/Viber** - 09083111560
-**Github** - <a href="https://github.com/ptrckstuns">ptrckstuns</a>
+**Email** - patrick.castro.stuns@gmail.com <br>
+**Phone/Viber** - 09083111560 <br>
+**Github** - <a href="https://github.com/ptrckstuns">ptrckstuns</a> <br>
 **Linkedin** - <a href="https://in.linkedin.com/in/ptrckstuns">Patrick Castro</a>
 
 <br>
 
 ### EDUCATION
 
-Adamson Universisty <span style="float: right; ">4 years</span>  
+Adamson University <span style="float: right; ">4 years</span>  
 **BS Computer Science**  
 Currently enrolled and a graduating student.
  
 Pateros Catholic School <span style="float: right; ">6 years</span>  
-**STEM Track**  
+**High School - STEM Track**  
 4 years in Junior High School and 2 years in Senior High School.
 
 Taguig Integrated School <span style="float: right; ">6 years</span>  
@@ -88,7 +88,7 @@ _Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspen
 Technologies used   -->
 
 AUSG Representative - **Adamson Computer Science Society** <span style="float: right; ">A.Y. 2021-2022</span>  
-*Currently ACOMSS's AUSG (Adamson University Student Government) Representative. *
+*Currently ACOMSS's AUSG (Adamson University Student Government) Representative.*
 
 Former Executive Treasurer - **Adamson Computer Science Society** <span style="float: right; ">A.Y. 2020-2021</span>  
 *Former Executive Treasurer of ACOMSS.*
@@ -108,7 +108,7 @@ Practical Ethical Hacking - **TCM Security Udemy** <span style="float: right; ">
 <br>
 
 ### PUBLICATION
-Image Analysis for Person-Object Distance Measurement Using YOLOv4 (You Only Look Once) <span style="float: right; ">Thesis Paper</span>
+**Image Analysis for Person-Object Distance Measurement Using YOLOv4 (You Only Look Once)** <span style="float: right; ">Thesis Paper</span>
 
 <br>
 
