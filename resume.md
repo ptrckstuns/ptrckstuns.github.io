@@ -73,7 +73,7 @@ Co-author of <strong><a href="https://github.com/aerasmo/csi-osint-tool">CSI-OSI
   - Windows
   - Linux (Kali)
 - Exploit Machines
-  - Kioptrix
+  - Kioptrix Level 1
 
 <br>
 
@@ -96,8 +96,8 @@ Former Executive Treasurer - **Adamson Computer Science Society** <span style="f
 <br>
 
 ### CERTIFICATE
-NSE 1 - **Fortinet** <span style="float: right; ">February 11, 2022</span>  
-*NSE 1 Network Security Associate*
+NSE 1 Network Security Associate - **Fortinet** <span style="float: right; ">Feb. 11, 2022 - Feb. 11, 2024</span>  
+*NSE 1 Network Security Associate at NSE Training Institute*
 
 <br>
 
