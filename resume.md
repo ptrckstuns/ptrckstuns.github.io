@@ -5,7 +5,6 @@ subtitle: An enigmatic person
 ---
 
 <span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
-<!-- <span style="float: right; "><a href="https://resume.io/r/Wqqeqpc5n"><strong>> Download as PDF</strong></a> </span> -->
 <br>
 
 
@@ -18,8 +17,7 @@ subtitle: An enigmatic person
 <br>
 
 ### CONTACT
-**Email** - patrick.castro.stuns@gmail.com <br>
-**Phone/Viber** - 09083111560 <br>
+**Email** - ptrck.stuns@gmail.com <br>
 **Github** - <a href="https://github.com/ptrckstuns">ptrckstuns</a> <br>
 **Linkedin** - <a href="https://in.linkedin.com/in/ptrckstuns">Patrick Castro</a>
 
@@ -79,13 +77,8 @@ Co-author of <strong><a href="https://github.com/aerasmo/csi-osint-tool">CSI-OSI
 
 ### EXPERIENCE
 
-<!-- Title - **Comapany** <span style="float: right; ">Duration</span>  
-_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
-Technologies used  
-
-Title - **Comapany** <span style="float: right; ">Duration</span>  
-_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
-Technologies used   -->
+Cybersecurity Intern - **Poseidon IT Solutions** <span style="float: right; ">March 1, 2022 - Present</span>  
+*Security Analyst Intern*
 
 AUSG Representative - **Adamson Computer Science Society** <span style="float: right; ">A.Y. 2021-2022</span>  
 *Currently ACOMSS's AUSG (Adamson University Student Government) Representative.*
@@ -105,10 +98,13 @@ NSE 1 Network Security Associate - **Fortinet** <span style="float: right; ">Feb
 Practical Ethical Hacking - **TCM Security Udemy** <span style="float: right; ">2020 - Present</span>  
 *Currently Mid Course Capstone*
 
+Penetration Testing Student - **INE** <span style="float: right; ">2022 - Present</span>  
+*Currently on Penetration Testing Basics*
+
 <br>
 
 ### PUBLICATION
-**Image Analysis for Person-Object Distance Measurement Using YOLOv4 (You Only Look Once)** <span style="float: right; ">Thesis Paper</span>
+Image Analysis for Person-Object Distance Measurement Using YOLOv4 (You Only Look Once) <span style="float: right; ">Thesis Paper</span>
 
 <br>
 
