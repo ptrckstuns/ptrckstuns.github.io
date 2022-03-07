@@ -10,7 +10,10 @@ subtitle: Inside of my Ryouchi (りょうち).
 <h4 class="post-teaser__month">
 <strong>
 {% if category.name %} 
-- - - - -  {{ category.name }} - - - - - 
+    {% if category.name == "secret" %}
+    {% else %}
+    - - - - -  {{ category.name }} - - - - - 
+    {% endif %}
 {% else %} 
 {{ Print }} 
 {% endif %}
