@@ -4,7 +4,7 @@ title: Hello
 subtitle: I'm ptrckstuns
 sitemap:
   priority: 0.9
-redirect_to: https://ptrckstuns.codes
+
 ---
 
 <img src="{{ '/assets/img/fox.png' | prepend: site.baseurl }}" id="about-img">
