@@ -1,27 +1,53 @@
-# Site settings
-title: ptrckstuns
-description: >
+title: ptrckstuns # Shown in header on pages with full_logo: true
+short_logo: stn # Shown in header on all pages by default unless full_logo: true is set
+description: > # The description for your site
   ptrckstuns's page
-
-baseurl: "/" # the subpath of your site, e.g. /blog/
-url: "https://ptrckstuns.github.io" # the base hostname & protocol for your site
-# url: "127.0.0.1" # the base hostname & protocol for your site
+url: "https://ptrckstuns.github.io/" # Site base URL
 
 author:
-  fullname: Patrick Castro
-  github: ptrckstuns
-  linkedin: ptrckstuns
-  email: patrick.castro.stuns@gmail.com
+  name: Patrick Castro
+  github: ptrckstuns # GitHub username, used for GitHub icon on the top right
+  linkedin: ptrckstuns # Your LinkedIn profile url name, used for LinkedIn icon on the top right
+  email: patrick.castro.stuns@gmail.com # Used for email icon on the top right
+  homepage:  # This links to your name in post meta
+  twitter: # Twitter username, used for Twitter Card Analytics 
 
+disqus_name: # Setting this will turn on Disqus comments
+g_track_id: # Google Analytics tracking ID (e.g. UA-000000-2), setting this will turn on Google Analytics
 
-# Syntax highlighting
-highlightstyle: 'agate'
-styles: [agate, androidstudio, arta, asceti, atelier-cave.dark, atelier-cave.light, atelier-dune.dark, atelier-dune.light, atelier-estuary.dark, atelier-estuary.light, atelier-forest.dark, atelier-forest.light, atelier-heath.dark, atelier-heath.light, atelier-lakeside.dark, atelier-lakeside.light, atelier-plateau.dark, atelier-plateau.light, atelier-savanna.dark, atelier-savanna.light, atelier-seaside.dark, atelier-seaside.light, atelier-sulphurpool.dark, atelier-sulphurpool.light, brown_paper, codepen-embed, color-brewer, dark, darkula, default, docco, far, foundation, github, github-gist, googlecode, grayscale, hopscotch, hybrid, idea, ir_black, kimbie.dark, kimbie.light, magula, mono-blue, monokai, monokai_sublime, obsidian, paraiso.dark, paraiso.light, pojoaque, railscast, rainbow, school_book, solarized_dark, solarized_light, styles_list.txt, sunburst, tomorrow, tomorrow-night-blue, tomorrow-night-bright, tomorrow-night, tomorrow-night-eightie, v, xcode, zenburn]
-
-
-# Build settings
-highlighter: null
 markdown: kramdown
 
-plugins:
-  - jekyll-redirect-from
+defaults: # Recommended defaults, you may set your own
+  -
+    scope:
+      path: _posts
+    values:
+      comments: true
+  -
+    scope:
+      path: pages/redirects
+    values:
+      layout: redirect
+      index: false
+      listed: false
+  -
+    scope:
+      path: pages/tags
+    values:
+      layout: tag
+      sitemap:
+        priority: 0.4
+
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
+  ignore:
+    envs: [local]
+  blanklines: true
+  profile: false
+  startings: [html, head, body]
+
+rss: false # RSS feed icon on or off
+dark_mode: true # Dark mode icon
+project_card_style: modal # Choose from masonry, modal, and flat

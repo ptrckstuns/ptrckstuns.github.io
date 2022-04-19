@@ -1,9 +1,15 @@
 ---
 layout: null
-sitemap:
-  exclude: 'yes'
+index: false
 ---
 User-agent: *
 Disallow:
 
 Sitemap: {{ site.url }}/sitemap.xml
+
+    -----
+   | . . |
+    -----
+  \--|-|--/
+     | |
+  |-------|

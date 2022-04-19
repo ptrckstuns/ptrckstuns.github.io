@@ -1,3 +1,6 @@
+---
+layout: compress
+---
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -8,7 +11,14 @@
 <div class="wrapper">
 {% include header.html %}
 {{ content }}
+<span class="toggle"></span>
+<span class="wave"></span>
+<br>
+{% if page.comments %}
+{% include post/disqus.html %}
+{% endif %}
+<br>
+{% include page/about.html %}
 </div>
-{% include externals/scripting.html %}
 </body>
 </html>

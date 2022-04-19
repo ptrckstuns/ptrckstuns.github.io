@@ -1,14 +1,16 @@
 ---
 layout: page
+full_logo: true
 title: Hello
 subtitle: I'm ptrckstuns
+description: ptrckstuns's page
 sitemap:
-  priority: 0.9
-
+  priority: 1.0
 ---
-
 <img src="{{ '/assets/img/fox.png' | prepend: site.baseurl }}" id="about-img">
 
 <div id="describe-text">
 	<p>Get to know me.</p>
 </div>
+<br>
+<br>
