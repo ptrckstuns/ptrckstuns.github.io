@@ -2,7 +2,7 @@ title: ptrckstuns # Shown in header on pages with full_logo: true
 short_logo: stn # Shown in header on all pages by default unless full_logo: true is set
 description: > # The description for your site
   ptrckstuns's page
-url: "https://ptrckstuns.github.io/" # Site base URL
+url: "https://ptrckstuns.github.io" # Site base URL
 
 author:
   name: Patrick Castro
