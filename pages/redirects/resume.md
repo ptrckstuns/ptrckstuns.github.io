@@ -1,4 +1,4 @@
 ---
 permalink: /resume
-redirect_link: https://ritijjain.com/assets/files/Resume.pdf
+redirect_link: /2021/11/26/resume.html
 ---
