@@ -4,7 +4,8 @@ title:  Hacking OWASP Juice Shop
 date:   2022-04-18
 updated: 
 pin: false
-tags: [hacking, owasp, cybersecurity]
+listed: false
+tags: [owasp, cybersecurity]
 splash_img_source: 
 splash_img_caption: Hacking OWASP Juice Shop in 2022.
 ---

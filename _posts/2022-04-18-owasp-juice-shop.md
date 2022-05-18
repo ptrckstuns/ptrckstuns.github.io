@@ -4,7 +4,7 @@ title:  Setting up OWASP Juice Shop in 2022
 date:   2022-04-18
 updated: 
 pin: false
-tags: [machine, owasp, cybersecurity]
+tags: [owasp, cybersecurity]
 splash_img_source: /assets/img/owasp-juice-shop.png
 splash_img_caption: Setting up OWASP Juice Shop in 2022.
 ---

@@ -1,5 +1,42 @@
+- name: Lubotics E-commerce Website
+  id: p1
+  img_src: /assets/img/lubotics.png
+  description_less: An e-commerce website built using Django and Bootstrap.
+  description_more: >
+    <p>Built for academic purposes and in compliance to Web development subject from College. 
+    Backend is working such as account registration and login, cart functions, add shop items as admin, 
+    search bar, password-reset, and more.</p>
+  action_buttons: >
+    <a href="https://github.com/ptrckstuns/lubotics-backend" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
+    <a href="http://lubotics.herokuapp.com/" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-globe"></i> &nbsp Demo</a>
+  tags: [web development]
+
+- name: CSI OSINT Tool
+  id: p2
+  img_src: /assets/img/csi-osint-home.png
+  description_less: An object detection tool built with YOLOv4 and OpenCV, and integrated using Flash web framework.
+  description_more: >
+    <p>Built for academic purposes and in compliance to Capstone subject from College. Backend is working such as 
+    object detection, object filtering, object count, distance between objects(in pixels), and downloadable data.</p>
+  action_buttons: >
+    <a href="https://github.com/aerasmo/csi-osint-tool" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
+    <a href="/assets/pdf/CSI-OSINT-Capstone.pdf" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-book"></i> &nbsp Capstone Paper</a>
+  tags: [web development, object detection]
+
+- name: Haki Home Monitoring Software
+  id: p3
+  img_src: 
+  description_less: A home security monitoring desktop application built with YOLOv4 and OpenCV, and integrated using pyQt5.
+  description_more: >
+    <p>Built for academic purposes and in compliance to CS Research Project subject from College. 
+    It's a IP Camera monitoring software with added features with the help of object detection and distance algorithm.</p>
+  action_buttons: >
+    <a href="https://github.com/ptrckstuns/ipcamera-py" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
+    <a href="/assets/pdf/haki-csrp.pdf" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-book"></i> &nbsp Research Paper</a>
+  tags: [software development, object detection]
+
 - name: Cybersecurity Awareness Game # Project name, also used as heading
-  id: p1 # Project id, must be unique amongst the projects
+  id: pc # Project id, must be unique amongst the projects
   # img_src: /assets/img/connectpie-page.png # Optional image
   description_less: In development... 🛠 # Description shown at all times, text only
   description_more: > # Description shown only when the project card is expanded, HTML only
@@ -9,16 +46,6 @@
     <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Blog Post</a>
   tags: [game, cybersecurity] # A list of tags
 
-# - name: Pudina Fresh Jekyll Theme
-#   id: pf
-#   img_src: 
-#   description_less: A minimal yet feature-rich Jekyll theme made for personal websites and blogs.
-#   description_more: >
-#     <p>This site uses Pudhina Fresh theme.</p>
-#   action_buttons: >
-#     <a href="https://github.com/ritijjain/pudhina-fresh" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
-#     <a href="https://ritijjain.com/2020/09/12/pudhina-fresh.html" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Blog Post</a>
-#   tags: [jekyll, open-source]
 
 # - name: Project Two
 #   id: p2
