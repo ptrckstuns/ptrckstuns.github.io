@@ -4,6 +4,7 @@ description: > # The description for your site
   ptrckstuns's page
 # url: "https://ptrckstuns.github.io" # Site base URL
 url: "https://ptrckstuns.codes"
+baseurl: "/blog"
 
 author:
   name: Patrick Castro
