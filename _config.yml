@@ -3,8 +3,7 @@ short_logo: ptrckstuns # Shown in header on all pages by default unless full_log
 description: > # The description for your site
   ptrckstuns's page
 # url: "https://ptrckstuns.github.io" # Site base URL
-# url: "https://ptrckstuns.codes"
-url: "https://ptrckstuns.codes/blog"
+url: "https://ptrckstuns.codes"
 
 author:
   name: Patrick Castro
