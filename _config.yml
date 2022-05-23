@@ -1,54 +1,55 @@
-title: ptrckstuns # Shown in header on pages with full_logo: true
-short_logo: ptrckstuns # Shown in header on all pages by default unless full_logo: true is set
-description: > # The description for your site
-  ptrckstuns's page
-# url: "https://ptrckstuns.github.io" # Site base URL
-url: "https://ptrckstuns.codes"
+# Site Settings
+baseurl: ""
+url : "https://ptrckstuns.github.io"
 
-author:
-  name: Patrick Castro
-  github: ptrckstuns # GitHub username, used for GitHub icon on the top right
-  linkedin: ptrckstuns # Your LinkedIn profile url name, used for LinkedIn icon on the top right
-  email: patrick.castro.stuns@gmail.com # Used for email icon on the top right
-  homepage:  # This links to your name in post meta
-  twitter: # Twitter username, used for Twitter Card Analytics 
+# Blog Settings
+theme_settings :
+  title : ptrckstuns
+  favicon : assets/img/fox.png
 
-disqus_name: # Setting this will turn on Disqus comments
-g_track_id: # Google Analytics tracking ID (e.g. UA-000000-2), setting this will turn on Google Analytics
+  # Profile Settings
+  profile :
+    image : assets/img/fox.png
+    username : Patrick Castro
+    description : 22-year-old Computer Science student interested in cybersecurity.
+    experience :
+      - start : 2022-02-28
+        end : 2022-05-17
+        experience : Poseidon IT Solutions, Security Analyst Intern
+    skills : 
+      - skill : HTML & CSS & JS
+        value : 85  # Percent value
+      - skill : Python & Django & Flask
+        value : 80  # Percent value
+      - skill : C# & Java
+        value : 75  # Percent value
+      - skill : MySQL
+      - skill : Vulnerability Scanning & Penetration Testing
+        
+  # Icons
+  icons :
+    email: patrick.castro.stuns@gmail.com # Full email address, e.g. "sample@google.com"
+    linkedin: https://linkedin.com/in/ptrckstuns # Full URL 
+    github: ptrckstuns
+    gitlab: 
+    bitbucket: 
+    google_plus:
+    twitter: _ptrckstuns_1
+    youtube: 
+    facebook: 
+    instagram: 
 
-markdown: kramdown
+  # Disqus
+  disqus_shortname : ptrckstuns
 
-defaults: # Recommended defaults, you may set your own
-  -
-    scope:
-      path: _posts
-    values:
-      comments: true
-  -
-    scope:
-      path: pages/redirects
-    values:
-      layout: redirect
-      index: false
-      listed: false
-  -
-    scope:
-      path: pages/tags
-    values:
-      layout: tag
-      sitemap:
-        priority: 0.4
+# Pagination
+paginate: 5
+paginate_path: "blog/page:num"
 
-compress_html:
-  clippings: all
-  comments: ["<!-- ", " -->"]
-  endings: all
-  ignore:
-    envs: [local]
-  blanklines: true
-  profile: false
-  startings: [html, head, body]
-
-rss: false # RSS feed icon on or off
-dark_mode: true # Dark mode icon
-project_card_style: modal # Choose from masonry, modal, and flat
+# Build Ssttings
+sass:
+  sass_dir: _sass
+  style: :compressed
+plugins: [jekyll-paginate]
+bootstrap:
+  assets: true

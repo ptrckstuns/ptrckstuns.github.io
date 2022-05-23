@@ -1,72 +1,98 @@
-- name: Lubotics E-commerce Website
-  id: p1
-  img_src: /assets/img/lubotics.png
-  description_less: An e-commerce website built using Django and Bootstrap.
-  description_more: >
-    <p>Built for academic purposes and in compliance to Web development subject from College. 
-    Backend is working such as account registration and login, cart functions, add shop items as admin, 
-    search bar, password-reset, and more.</p>
-  action_buttons: >
-    <a href="https://github.com/ptrckstuns/lubotics-backend" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
-    <a href="http://lubotics.herokuapp.com/" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-globe"></i> &nbsp Demo</a>
-  tags: [web development]
+# - project :
+#     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+#     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
+#     url : https://github.com/naye0ng/Grape-Theme # Full URL
+#     image : "portfolio.png" # path: assets/project/
+#     date : 2019.06.09 - Developing
+#     title : Grape-Theme
+#     summary : A awesome jekyll theme!
+#     description : This project is my first jekyll theme. and everyone can customize this easily.  
+#     contents :
+#         - title : 1. 블로그 첫 화면 구성
+#           image : home.png
+#           description : <li>Responsive Layout</li>
+#             <li>User Profile</li> 
+#             <li>Tags</li> 
+#             <li>Projects</li> 
+#             <li>Pagination</li>
+#         - title : 2. 태그 페이지
+#           image : tags.png
+#           description : <li>Responsive Layout</li> 
+#             <li>Tags</li> 
+#         - title : 3. 남은 개발 과제
+#           image :
+#           description : <li>project 부분 디자인 변경</li>
+#             <li>favicon.ico, search 기능</li>
+#             <li>OG Tag 추가</li>
+#             <li>profile 이미지 효과</li>
+#             <li>gem 배포</li> 
 
-- name: CSI OSINT Tool
-  id: p2
-  img_src: /assets/img/csi-osint-home.png
-  description_less: An object detection tool built with YOLOv4 and OpenCV, and integrated using Flash web framework.
-  description_more: >
-    <p>Built for academic purposes and in compliance to Capstone subject from College. Backend is working such as 
-    object detection, object filtering, object count, distance between objects(in pixels), and downloadable data.</p>
-  action_buttons: >
-    <a href="https://github.com/aerasmo/csi-osint-tool" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
-    <a href="/assets/pdf/CSI-OSINT-Capstone.pdf" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-book"></i> &nbsp Capstone Paper</a>
-  tags: [web development, object detection]
+- project :
+    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+    modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
+    url :  https://github.com/ptrckstuns/lubotics-backend # Full URL
+    image : lubotics/lubotics.png # path: assets/project/
+    date : 2021.03 - 2021.05
+    title : Lubotics E-commerce Website
+    summary : An e-commerce website built using Django and Bootstrap.
+    description :  Built for academic purposes and in compliance to Web development subject from College. 
+    contents:
+        - title: Backend is working such as
+          image: 
+          description: <li>account registration and login,</li>
+            <li>cart functions,</li>
+            <li>add shop items as admin,</li> 
+            <li>search bar,</li>
+            <li>password-reset, and more.</li>
+        - title: Demo site
+          description: <a href="http://lubotics.herokuapp.com/" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-globe"></i> &nbsp Demo</a>
 
-- name: Haki Home Monitoring Software
-  id: p3
-  img_src: 
-  description_less: A home security monitoring desktop application built with YOLOv4 and OpenCV, and integrated using pyQt5.
-  description_more: >
-    <p>Built for academic purposes and in compliance to CS Research Project subject from College. 
-    It's a IP Camera monitoring software with added features with the help of object detection and distance algorithm.</p>
-  action_buttons: >
-    <a href="https://github.com/ptrckstuns/ipcamera-py" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
-    <a href="/assets/pdf/haki-csrp.pdf" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-book"></i> &nbsp Research Paper</a>
-  tags: [software development, object detection]
+- project :
+    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+    modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
+    url :  https://github.com/aerasmo/csi-osint-tool # Full URL
+    image : csi/csi-osint-home.png # path: assets/project/
+    date : 2021.07 - 2022.01
+    title : CSI OSINT Tool
+    summary : An object detection tool built with YOLOv4 and OpenCV, and integrated using Flash web framework.
+    description :  Built for academic purposes and in compliance to Capstone subject from College. 
+    contents:
+        - image: /csi/csi-osint-home-1.png
+        - title: Backend is working such as
+          image: 
+          description: <li>object detection,</li>
+            <li>object filtering,</li>
+            <li>object count,</li> 
+            <li>distance between objects(in pixels),</li>
+            <li>and downloadable data.</li>
+        - title: Capstone Paper
+          image:
+          description: <a href="/assets/pdf/CSI-OSINT-Capstone.pdf" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-book"></i> &nbsp Capstone Paper</a>
 
-- name: Cybersecurity Awareness Game # Project name, also used as heading
-  id: pc # Project id, must be unique amongst the projects
-  # img_src: /assets/img/connectpie-page.png # Optional image
-  description_less: In development... 🛠 # Description shown at all times, text only
-  description_more: > # Description shown only when the project card is expanded, HTML only
-    <p>Gamified cybersecurity awareness for beginners.</p> 
-  action_buttons: > # Action buttons for project, HTML only
-    <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
-    <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Blog Post</a>
-  tags: [game, cybersecurity] # A list of tags
+- project :
+    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+    modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
+    url :  # https://github.com/ptrckstuns/ipcamera-py # Full URL
+    image :  # path: assets/project/
+    date : 2021.08 - 2022.01
+    title : Haki Home Monitoring Software
+    summary : A home security monitoring desktop application built with YOLOv4 and OpenCV, and integrated using pyQt5.
+    description : Built for academic purposes and in compliance to CS Research Project subject from College. 
+    contents:
+        - title: Description
+          image: 
+          description: It's a IP Camera monitoring software with added features with the help of object detection and distance algorithm.
+        - title: Research Paper
+          image:
+          description: <a href="/assets/pdf/haki-csrp.pdf" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-book"></i> &nbsp Research Paper</a>
 
+- project :
+    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+    modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
+    url :  # Full URL
+    image :  # path: assets/project/
+    date : 2021.05 - Developing
+    title : Cybersecurity Awareness Game Simulation
+    summary : A web game infoming cybersecurity awareness.
+    description : Gamified cybersecurity awareness for beginners. 
 
-# - name: Project Two
-#   id: p2
-#   img_src: 
-#   description_less: Refer to docs to learn how to add your own projects.
-#   description_more: >
-#     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-#   action_buttons: >
-#     <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-link"></i> &nbsp View Project</a>
-#     <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
-#     <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Blog Post</a>
-#   tags: [tag3, docs]
-
-# - name: Project Three
-#   id: p3
-#   img_src: /assets/img/weatherpie-page.png
-#   description_less: Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam.
-#   description_more: >
-#     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-#   action_buttons: >
-#     <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-link"></i> &nbsp View Project</a>
-#     <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
-#     <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Blog Post</a>
-#   tags: [tag2, tag4]
