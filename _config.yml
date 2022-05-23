@@ -10,7 +10,7 @@ theme_settings :
 
   # Profile Settings
   profile :
-    image : assets/img/fox.png
+    image : assets/img/rocko.png
     username : Patrick Castro
     description : 22-year-old Computer Science student interested in cybersecurity.
     experience :
