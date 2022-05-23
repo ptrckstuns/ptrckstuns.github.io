@@ -57,7 +57,7 @@
     summary : An object detection tool built with YOLOv4 and OpenCV, and integrated using Flash web framework.
     description :  Built for academic purposes and in compliance to Capstone subject from College. 
     contents:
-        - image: /csi/csi-osint-home-1.png
+        - image: csi/csi-osint-home-1.png
         - title: Backend is working such as
           image: 
           description: <li>object detection,</li>
