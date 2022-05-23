@@ -1,7 +1,7 @@
 # Site Settings
 baseurl: ""
-url : "https://ptrckstuns.github.io"
-# url: "https://ptrckstuns.codes"
+# url : "https://ptrckstuns.github.io"
+url: "https://ptrckstuns.codes"
 
 # Blog Settings
 theme_settings :

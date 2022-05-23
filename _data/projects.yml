@@ -27,7 +27,7 @@
 #             <li>profile 이미지 효과</li>
 #             <li>gem 배포</li> 
 
-- project :
+- project : 
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
     url :  https://github.com/ptrckstuns/lubotics-backend # Full URL
@@ -47,7 +47,7 @@
         - title: Demo site
           description: <a href="http://lubotics.herokuapp.com/" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-globe"></i> &nbsp Demo</a>
 
-- project :
+- project : 
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
     url :  https://github.com/aerasmo/csi-osint-tool # Full URL
@@ -69,7 +69,7 @@
           image:
           description: <a href="/assets/pdf/CSI-OSINT-Capstone.pdf" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-book"></i> &nbsp Capstone Paper</a>
 
-- project :
+- project : 
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
     url :  # https://github.com/ptrckstuns/ipcamera-py # Full URL
@@ -86,7 +86,7 @@
           image:
           description: <a href="/assets/pdf/haki-csrp.pdf" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-book"></i> &nbsp Research Paper</a>
 
-- project :
+- project : 
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
     url :  # Full URL
