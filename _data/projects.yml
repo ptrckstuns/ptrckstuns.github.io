@@ -73,7 +73,7 @@
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
     url :  # https://github.com/ptrckstuns/ipcamera-py # Full URL
-    image :  # path: assets/project/
+    image :  haki/1.png # path: assets/project/
     date : 2021.08 - 2022.01
     title : Haki Home Monitoring Software
     summary : A home security monitoring desktop application built with YOLOv4 and OpenCV, and integrated using pyQt5.
@@ -84,7 +84,8 @@
           description: It's a IP Camera monitoring software with added features with the help of object detection and distance algorithm.
         - title: Research Paper
           image:
-          description: <a href="/assets/pdf/haki-csrp.pdf" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-book"></i> &nbsp Research Paper</a>
+          description: <a href="/assets/pdf/haki.pdf" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-book"></i> &nbsp Research Paper &nbsp </a>
+                       <br><a href="/assets/pdf/haki-magazine.pdf" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-book"></i> &nbsp Magazine</a>
 
 - project : 
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 

@@ -22,10 +22,12 @@ theme_settings :
         value : 85  # Percent value
       - skill : Python & Django & Flask
         value : 80  # Percent value
-      - skill : C# & Java
+      - skill : C, C++, C#, Java, PHP
         value : 75  # Percent value
-      - skill : MySQL
+      - skill : MySQL, Microsoft SQL Server
       - skill : Vulnerability Scanning & Penetration Testing
+    certifications:
+      - cert : eLearnSecurity Junior Penetration Tester (eJPT)
         
   # Icons
   icons :

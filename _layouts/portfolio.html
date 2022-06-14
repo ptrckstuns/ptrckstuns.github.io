@@ -51,6 +51,21 @@ layout: page
         {% endfor %}
       </ul>
     </article>
+    <article class="certifications col-12 col-md-6">
+      <p class="title">CERTIFICATIONS</p>
+      <ul class="cert-list">
+        {% for _ in profile.certifications %}
+        <li class="cert">
+          <p class="name">{{ _.cert }}</p>
+          <!-- <div class="progress">
+            <div class="progress-bar" style="width: {{ _.value }}%">
+              <div class="progress-value">{{ _.value }}%</div>
+            </div>
+          </div> -->
+        </li>
+        {% endfor %}
+      </ul>
+    </article>
   </section>
 
   {% include projects.html %}
