@@ -4,7 +4,7 @@ title: Sample Post with Markdown
 subtitle : How markdown is displayed as html
 tags: []
 author: Nayeong Kim
-comments : True
+comments : False
 ---
 
 This post show result from awesome Markdown techniques like jekyll. 

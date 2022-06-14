@@ -10,9 +10,9 @@ theme_settings :
 
   # Profile Settings
   profile :
-    image : assets/img/rocko.png
+    image : assets/img/rei.jpg
     username : Patrick Castro
-    description : 22-year-old Computer Science student interested in cybersecurity.
+    description : Computer Science student | cybersecurity enthusiast
     experience :
       - start : 2022-02-28
         end : 2022-05-17
