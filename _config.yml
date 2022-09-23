@@ -12,7 +12,7 @@ theme_settings :
   profile :
     image : assets/img/rei.jpg
     username : Patrick Castro
-    description : Cyber Security Consultant | Computer Science graduate | cybersecurity enthusiast
+    description : Cyber Security Consultant | Computer Science graduate | Cybersecurity enthusiast
     experience :
       - start : 2022-02-28
         end : 2022-05-17
@@ -28,22 +28,22 @@ theme_settings :
       - skill : C, C++, C#, Java, PHP
         value : 75  # Percent value
       - skill : MySQL, Microsoft SQL Server
-      - skill : Vulnerability Scanning & Penetration Testing
+      - skill : Vulnerability Assessment & Penetration Testing
     certifications:
       - cert : eLearnSecurity Junior Penetration Tester (eJPT)
         
   # Icons
   icons :
-    email: patrick.castro.stuns@gmail.com # Full email address, e.g. "sample@google.com"
+    email: pm.andreicastro@gmail.com # Full email address, e.g. "sample@google.com"
     linkedin: https://linkedin.com/in/ptrckstuns # Full URL 
     github: ptrckstuns
     gitlab: 
     bitbucket: 
     google_plus:
-    twitter: _ptrckstuns_1
+    twitter: ptrckstuns0_0
     youtube: 
     facebook: 
-    instagram: 
+    instagram: patrickcastro__
 
   # Disqus
   disqus_shortname : ptrckstuns
