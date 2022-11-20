@@ -2,7 +2,7 @@
 layout: post
 title:  Setting up OWASP Juice Shop in 2022
 date:   2022-04-18
-tags: [owasp, cybersecurity]
+tags: [target]
 author: Patrick Castro
 comments: True
 ---

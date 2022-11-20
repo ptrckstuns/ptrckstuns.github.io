@@ -3,7 +3,7 @@ layout: post
 title:  Hacking Metasploitable 2
 subtitle: Conducting a penetration testing on Metasploitable 2.
 date:   2022-05-11
-tags: [writeup, cybersecurity]
+tags: [writeup]
 author: Patrick Castro
 comments: True
 ---

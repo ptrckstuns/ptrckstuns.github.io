@@ -2,7 +2,7 @@
 layout: post
 title:  Hacking OWASP Juice Shop 
 date:   2022-04-18
-tags: [owasp, cybersecurity]
+tags: [writeup]
 author: Patrick Castro
 ---
 

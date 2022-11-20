@@ -12,25 +12,25 @@ theme_settings :
   profile :
     image : assets/img/rei.jpg
     username : Patrick Castro
-    description : Cyber Security Consultant | Computer Science graduate | Cybersecurity enthusiast
+    description : Cyber Security Consultant
     experience :
-      - start : 2022-02-28
-        end : 2022-05-17
-        experience : Poseidon IT Solutions, Security Analyst Intern
       - start : 2022-08-01
         end : Present
         experience : KPMG Philippines, Consultant I
+      - start : 2022-02-28
+        end : 2022-05-17
+        experience : Poseidon IT Solutions, Security Analyst Intern
     skills : 
-      - skill : HTML & CSS & JS
-        value : 85  # Percent value
-      - skill : Python & Django & Flask
-        value : 80  # Percent value
-      - skill : C, C++, C#, Java, PHP
-        value : 75  # Percent value
-      - skill : MySQL, Microsoft SQL Server
       - skill : Vulnerability Assessment & Penetration Testing
+      - skill : Python & Django & Flask
+      - skill : HTML & CSS & JS        
+      - skill : C, C++, C#, Java, PHP
+      - skill : MySQL, Microsoft SQL Server
+        value : 75  # Percent value
     certifications:
+      - cert : C)PTE - Certified Penetration Testing Engineer
       - cert : eLearnSecurity Junior Penetration Tester (eJPT)
+      - cert : C)SA1 - Certified Security Awareness 1
         
   # Icons
   icons :

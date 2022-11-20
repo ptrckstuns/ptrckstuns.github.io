@@ -92,7 +92,7 @@
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
     url :  # Full URL
     image :  # path: assets/project/
-    date : 2021.05 - Developing
+    date : 2021.05 - Developing (Discontinued)
     title : Cybersecurity Awareness Game Simulation
     summary : A web game infoming cybersecurity awareness.
     description : Gamified cybersecurity awareness for beginners. 
