@@ -28,8 +28,8 @@ theme_settings :
       - skill : MySQL, Microsoft SQL Server
         value : 75  # Percent value
     certifications:
+      - cert : eJPT - eLearnSecurity Junior Penetration Tester 
       - cert : C)PTE - Certified Penetration Testing Engineer
-      - cert : eLearnSecurity Junior Penetration Tester (eJPT)
       - cert : C)SA1 - Certified Security Awareness 1
         
   # Icons
