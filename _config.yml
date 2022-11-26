@@ -34,7 +34,8 @@ theme_settings :
         
   # Icons
   icons :
-    email: pm.andreicastro@gmail.com # Full email address, e.g. "sample@google.com"
+    email: pm.andreicastro@gmail.com 
+    proton: ptrckstuns@proton.me # Full email address, e.g. "sample@google.com"
     linkedin: https://linkedin.com/in/ptrckstuns # Full URL 
     github: ptrckstuns
     gitlab: 
