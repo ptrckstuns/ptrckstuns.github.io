@@ -1,7 +1,7 @@
 # Site Settings
 baseurl: ""
-# url : "https://ptrckstuns.github.io"
-url: "https://patrickcastro.xyz"
+url : "https://ptrckstuns.github.io"
+# url: "https://patrickcastro.xyz"
 
 # Blog Settings
 theme_settings :
