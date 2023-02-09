@@ -31,8 +31,17 @@ comments: True
 ## Buffer Overflow
 - [Bad chars](https://github.com/cytopia/badchars)
 
+## Burpsuite Plugins
+- Pentest Mapper
+- Replicator
+- Wordlist Extractor
+
 ## Checklist
 - [External Pentest Checklist](https://github.com/hmaverickadams/External-Pentest-Checklist)
+
+## Linux
+- [Crontab Generator](https://crontab-generator.org/)
+- [Crontab Guru](https://crontab.guru/)
 
 ## Leaked
 - [trufflehog](https://github.com/trufflesecurity/trufflehog)
@@ -40,6 +49,13 @@ comments: True
 ## Machines
 - [hackable](https://github.com/JasonHinds13/hackable)
 - [OWASP Juice Shop](https://github.com/OWASP/www-project-juice-shop)
+
+## Mobile
+- [adb platform tools](https://developer.android.com/studio/releases/platform-tools)
+- [Android Studio](https://developer.android.com/studio)
+- [apktool](https://bitbucket.org/iBotPeaches/apktool/downloads/)
+- [injuredAndroid](https://github.com/B3nac/InjuredAndroid)
+- [jadx](https://github.com/skylot/jadx)
 
 ## Network
 - [bettercap](https://github.com/bettercap/bettercap)
@@ -52,7 +68,13 @@ comments: True
 - [Joplin](https://github.com/laurent22/joplin)
 - [Obsidian](https://obsidian.md/)
 
+## Operating System
+- [Kali](https://www.kali.org/)
+- [ParrotOS](https://www.parrotsec.org/)
+- [BlackBuntu](https://blackbuntu.org/)
+
 ## OSINT
+- [cloudenum](https://github.com/initstring/cloud_enum)
 - [GHunt](https://github.com/mxrch/GHunt)
 - [theHarvester](https://github.com/laramies/theHarvester)
 - [twint](https://github.com/twintproject/twint)
@@ -134,7 +156,11 @@ comments: True
 # DFIR
 
 ## Crackers
+- [Crackstation](https://crackstation.net/)
+- [CyberChef](https://gchq.github.io/CyberChef/)
 - [HackBrowserData](https://github.com/moonD4rk/HackBrowserData)
+- [JWT_Tool](https://github.com/ticarpi/jwt_tool)
+- [JWT.io](https://jwt.io/)
 - [stegseek](https://github.com/RickdeJager/stegseek)
 - [VimDecrypt](https://github.com/nlitsme/vimdecrypt)
 
