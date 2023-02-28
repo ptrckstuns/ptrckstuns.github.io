@@ -31,13 +31,21 @@ comments: True
 ## Buffer Overflow
 - [Bad chars](https://github.com/cytopia/badchars)
 
-## Burpsuite Plugins
+## Burp Suite Plugins
+- JWT Editor
 - Pentest Mapper
 - Replicator
 - Wordlist Extractor
 
 ## Checklist
 - [External Pentest Checklist](https://github.com/hmaverickadams/External-Pentest-Checklist)
+
+## Directory busting
+- [dirb](https://www.kali.org/tools/dirb/)
+- [dirbuster](https://www.kali.org/tools/dirbuster/)
+- [dir search](https://github.com/maurosoria/dirsearch)
+- [ffuf](https://github.com/ffuf/ffuf)
+- [gobuster](https://github.com/OJ/gobuster)
 
 ## Linux
 - [Crontab Generator](https://crontab-generator.org/)
@@ -165,4 +173,15 @@ comments: True
 - [VimDecrypt](https://github.com/nlitsme/vimdecrypt)
 
 ## Forensics
+- [Anyrun](https://any.run/)
+- [Autopsy](https://www.autopsy.com/)
+- [DBAN](https://dban.org/)
+- [Encase Imager](https://e-forensic.ca/products/encase-forensic-suite/)
+- [Eraser](https://eraser.heidi.ie/)
+- [Hashcalc](https://www.slavasoft.com/hashcalc/)
+- [hybrid-analysis.com](https://www.hybrid-analysis.com/)
+- [Maltego](https://www.maltego.com/)
+- [Process Explorer](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer)
 - [SmartDeblur](https://github.com/Y-Vladimir/SmartDeblur)
+- [Threatcrowd.org](https://extensions.rapid7.com/extension/threatcrowd)
+- [Virus Total](https://www.virustotal.com/gui/home/upload)
