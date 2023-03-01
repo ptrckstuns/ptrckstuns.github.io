@@ -12,7 +12,7 @@ theme_settings :
   profile :
     image : assets/img/rei.jpg
     username : Patrick Castro
-    description : Cyber Security Consultant
+    description : CyberSecurity Consultant
     experience :
       - start : 2022-08-01
         end : Present
@@ -29,8 +29,8 @@ theme_settings :
         value : 75  # Percent value
     certifications:
       - cert : eJPT - eLearnSecurity Junior Penetration Tester 
-      - cert : C)PTE - Certified Penetration Testing Engineer
-      - cert : C)SA1 - Certified Security Awareness 1
+      - cert : C)PTE - Mile2 Certified Penetration Testing Engineer
+      - cert : C)SA1 - Mile2 Certified Security Awareness 1
         
   # Icons
   icons :
@@ -45,6 +45,7 @@ theme_settings :
     youtube: 
     facebook: 
     instagram: patrickcastro__
+    twitch: ptrckstunsx
 
   # Disqus
   disqus_shortname : ptrckstuns
