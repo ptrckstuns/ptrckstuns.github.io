@@ -131,6 +131,7 @@ comments: True
 - [Seclists](https://github.com/danielmiessler/SecLists)
 - [Security-Wordlist](https://github.com/DragonJAR/Security-Wordlist)
 - [windowsblindread](https://github.com/soffensive/windowsblindread)
+- [passphrase](https://github.com/initstring/passphrase-wordlist)
 
 ---
 # Reading Materials, Tools, Collections

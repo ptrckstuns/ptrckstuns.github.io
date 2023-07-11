@@ -12,7 +12,7 @@ theme_settings :
   profile :
     image : assets/img/rei.jpg
     username : Patrick Castro
-    description : CyberSecurity Consultant
+    description : Red Teamer, CyberSecurity Consultant
     experience :
       - start : 2022-08-01
         end : Present
@@ -21,16 +21,19 @@ theme_settings :
         end : 2022-05-17
         experience : Poseidon IT Solutions, Security Analyst Intern
     skills : 
-      - skill : Vulnerability Assessment & Penetration Testing
-      - skill : Python & Django & Flask
-      - skill : HTML & CSS & JS        
+      - skill : Vulnerability Assessment & Penetration Testing (Web, Network, API) 
+      - skill : Red Teaming (Phishing, Physical Security, Wireless Testing)
+      - skill : Backend - Python & Django & Flask
+      - skill : Web Development - HTML & CSS & JS        
       - skill : C, C++, C#, Java, PHP
-      - skill : MySQL, Microsoft SQL Server
+      - skill : SQL
         value : 75  # Percent value
-    certifications:
+    certifications :
       - cert : eJPT - eLearnSecurity Junior Penetration Tester 
       - cert : C)PTE - Mile2 Certified Penetration Testing Engineer
+      - cert : (ISC)2 CC - Certified in Cybersecurity
       - cert : C)SA1 - Mile2 Certified Security Awareness 1
+ 
         
   # Icons
   icons :
@@ -48,10 +51,10 @@ theme_settings :
     twitch: ptrckstunsx
 
   # Disqus
-  disqus_shortname : ptrckstuns
+  disqus_shortname : #ptrckstuns
 
 # Pagination
-paginate: 5
+paginate: 4
 paginate_path: "blog/page:num"
 
 # Build Ssttings

@@ -7,31 +7,79 @@
       {% when 'tags'%}
       <!-- tags -->
       <a href="{{ site.url }}">
-        <li class="btn-nav">Blog</li>
+        <li class="btn-nav">Home</li>
       </a>
       <li class="current">Tags</li>
       <a href="{{ site.url }}/portfolio">
-        <li class="btn-nav">Portfolio</li>
+        <li class="btn-nav">whoami</li>
+      </a>
+      <a href="{{ site.url }}/writeup">
+        <li class="btn-nav">Writeup</li>
+      </a>
+      <a href="{{ site.url }}/projects">
+        <li class="btn-nav">Projects</li>
       </a>
       <!-- portfolio -->
       {% when 'portfolio'%}
       <a href="{{ site.url }}">
-        <li class="btn-nav">Blog</li>
+        <li class="btn-nav">Home</li>
       </a>
       <a href="{{ site.url }}/tags">
         <li class="btn-nav">Tags</li>
       </a>
-      <li class="current">Portfolio</li>
-      {% else %}
-      <!-- others -->
+      <li class="current">whoami</li>
+      <a href="{{ site.url }}/writeup">
+        <li class="btn-nav">Writeup</li>
+      </a>
+      <a href="{{ site.url }}/projects">
+        <li class="btn-nav">Projects</li>
+      </a>
+      <!-- writeup -->
+      {% when 'writeup'%}
       <a href="{{ site.url }}">
-        <li class="current btn-nav">Blog</li>
+        <li class="btn-nav">Home</li>
       </a>
       <a href="{{ site.url }}/tags">
         <li class="btn-nav">Tags</li>
       </a>
       <a href="{{ site.url }}/portfolio">
-        <li class="btn-nav">Portfolio</li>
+        <li class="btn-nav">whoami</li>
+      </a>
+      <li class="current">Writeup</li>
+      <a href="{{ site.url }}/projects">
+        <li class="btn-nav">Projects</li>
+      </a>
+      <!-- projects -->
+      {% when 'projects'%}
+      <a href="{{ site.url }}">
+        <li class="btn-nav">Home</li>
+      </a>
+      <a href="{{ site.url }}/tags">
+        <li class="btn-nav">Tags</li>
+      </a>
+      <a href="{{ site.url }}/portfolio">
+        <li class="btn-nav">whoami</li>
+      </a>
+      <a href="{{ site.url }}/writeup">
+        <li class="btn-nav">Writeup</li>
+      </a>
+      <li class="current">Projects</li>
+      {% else %}
+      <!-- others -->
+      <a href="{{ site.url }}">
+        <li class="current btn-nav">Home</li>
+      </a>
+      <a href="{{ site.url }}/tags">
+        <li class="btn-nav">Tags</li>
+      </a>
+      <a href="{{ site.url }}/portfolio">
+        <li class="btn-nav">whoami</li>
+      </a>
+      <a href="{{ site.url }}/writeup">
+        <li class="btn-nav">Writeup</li>
+      </a>
+      <a href="{{ site.url }}/projects">
+        <li class="btn-nav">Projects</li>
       </a>
       {% endcase %}
     </ul>
