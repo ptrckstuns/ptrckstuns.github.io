@@ -142,7 +142,7 @@ funkymonkey
 marcus@monitorstwo:~$ ls
 user.txt
 marcus@monitorstwo:~$ cat user.txt
-f7ea249014687aac49df50ee5d6c7bd6
+[REDACTED-FLAG]
 ```
 
 <br>
@@ -313,7 +313,7 @@ bash-5.1# ls /root
 cacti  root.txt
 
 bash-5.1# cat /root/root.txt
-d390b144fe762dc2620a1b985033d3a8
+[REDACTED-FLAG]
 ```
 
 That's how I pwned MonitorsTwo.

@@ -378,7 +378,7 @@ Last login: Tue Aug  8 19:00:06 2023 from 10.10.14.41
 root@keeper:~# ls
 root.txt  RT30000.zip  SQL
 root@keeper:~# cat root.txt
-ef7855e46c6bdd19e5c06c17d46546f3
+[REDACTED-FLAG]
 root@keeper:~#
 ```
 

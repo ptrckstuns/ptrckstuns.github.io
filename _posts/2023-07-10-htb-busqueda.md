@@ -100,7 +100,7 @@ Running the exploit grants a reverse shell on the netcat listener.
 ```shell
 find / -iname user.txt
 cat /home/svc/user.txt
-8b47f136443bcb0cf381ba4a3576f72f
+[REDACTED-FLAG]
 ```
 
 <br>
@@ -370,7 +370,7 @@ ls
 ecosystem.config.js  root.txt  scripts	snap
 # cat root.txt
 cat root.txt
-26b22f48e4ff13580114a8d9fa9fc07d
+[REDACTED-FLAG]
 ```
 
 That's how I pwned Busqueda.
