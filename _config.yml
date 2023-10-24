@@ -12,10 +12,13 @@ theme_settings :
   profile :
     image : assets/img/rei.jpg
     username : Patrick Castro
-    description : Red Teamer, CyberSecurity Consultant
+    description : Penetration Tester, Red Teamer, Cybersecurity Consultant
     experience :
-      - start : 2022-08-01
+      - start : 2023-10-16
         end : Present
+        experience : Manulife Data Services Inc., Junior Penetration Tester
+      - start : 2022-08-01
+        end : 2023-10-09
         experience : KPMG Philippines, Consultant I
       - start : 2022-02-28
         end : 2022-05-17
