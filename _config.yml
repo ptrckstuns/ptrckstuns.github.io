@@ -12,11 +12,11 @@ theme_settings :
   profile :
     image : assets/img/rei.jpg
     username : Patrick Castro
-    description : Penetration Tester, Red Teamer, Cybersecurity Consultant
+    description : Penetration Tester, Red Teamer
     experience :
       - start : 2023-10-16
         end : Present
-        experience : Manulife Data Services Inc., Junior Penetration Tester
+        experience : Manulife, Junior Penetration Tester
       - start : 2022-08-01
         end : 2023-10-09
         experience : KPMG Philippines, Consultant I
@@ -26,12 +26,16 @@ theme_settings :
     skills : 
       - skill : Vulnerability Assessment & Penetration Testing (Web, Network, API) 
       - skill : Red Teaming (Phishing, Physical Security, Wireless Testing)
+      - skill : Application Security
       - skill : Backend - Python & Django & Flask
       - skill : Web Development - HTML & CSS & JS        
       - skill : C, C++, C#, Java, PHP
       - skill : SQL
         value : 75  # Percent value
     certifications :
+      - cert: eWPT - eLearnSecurity Web application Penetration Tester
+      - cert: Certified AppSec Pentester (CAPen)
+      - cert: Certified AppSec Practitioner (CAP) 
       - cert : eJPT - eLearnSecurity Junior Penetration Tester 
       - cert : C)PTE - Mile2 Certified Penetration Testing Engineer
       - cert : (ISC)2 CC - Certified in Cybersecurity
